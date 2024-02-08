@@ -1,5 +1,3 @@
-setwd("/Users/ts/Desktop/M. Sc. Business Analytics/02_Modules/08_Visualizing & Analyzing Data with R/02_Assignments/A1/Datasets")
-getwd()
 
 library(tidyverse)
 library(ggplot2)
